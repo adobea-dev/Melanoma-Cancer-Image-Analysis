@@ -1,0 +1,8 @@
+numpy==1.24 
+matplotlib 
+seaborn 
+tensorflow 
+opencv-python 
+albumentations 
+timm 
+keras 
